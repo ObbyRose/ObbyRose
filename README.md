@@ -5,9 +5,9 @@ Hey there! 👋 I'm **Tal Maman**, a passionate **Full-Stack Developer** with ex
 Before diving into formal education, I built websites for friends and personal projects out of curiosity. Now, I specialize in **frontend and backend development**, with experience in database management, API integration, and real-time web apps.
 
 Some of my projects include:
-- 🎬 **IMDB Clone** – A movie database web app with search, favorites, and dark mode.
 - 🎵 **Spotify Clone** – Custom playlists and music exploration using the Spotify API.
 - 🔥 **Threads Clone** – A social media app with real-time updates and authentication.
+- 🔗 **Asteriks Project** - An Ongoin Project developing an in-house CRM for project management between the company's teams
 - 🐉 **Pokédex App** – A mobile-first Pokémon app using React and Material-UI.
 
 Currently, I'm exploring **advanced backend concepts like WebSockets, authentication (JWT, bcrypt), and microservices architecture**.
