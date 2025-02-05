@@ -7,7 +7,7 @@ Before diving into formal education, I built websites for friends and personal p
 Some of my projects include:
 - 🎵 **Spotify Clone** – Custom playlists and music exploration using the Spotify API.
 - 🔥 **Threads Clone** – A social media app with real-time updates and authentication.
-- 🔗 **Asteriks Project** - An Ongoin Project developing an in-house CRM for project management between the company's teams
+- 🔗 **Asteriks Project** - An Ongoin Project developing an in-house CRM for project management between the company's teams and clients
 - 🐉 **Pokédex App** – A mobile-first Pokémon app using React and Material-UI.
 
 Currently, I'm exploring **advanced backend concepts like WebSockets, authentication (JWT, bcrypt), and microservices architecture**.
