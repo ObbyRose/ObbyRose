@@ -56,11 +56,3 @@ Currently, I'm exploring **advanced backend concepts like WebSockets, authentica
 ⚡ **Fun fact:** I thrive in fast-paced tech environments and love pushing the boundaries of what’s possible with code!
 
 ---
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ObbyRose/ObbyRose/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
